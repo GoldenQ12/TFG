@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+}
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.sidebar-button{
+  font-size: 3em !important;
+}
